@@ -3,6 +3,8 @@ A Unity game I made during a 1 week hackweek.
 
 The central theme of this game is not doing what you're expected or supposed to be doing. I was supposed to be thinking about what the hackweek theme ("The Future Is...") meant and instead made this game. I guess that counts!
 
+This will not play well on mobile devices, desktop web only! It technically will work, but you might not be able to click on any of the buttons since the UI isn't set up to scale correctly 😬
+
 [Play it here](https://anpetersen.me/thefutureis)
 
 This game is very rough, it's more prototype than game. 
