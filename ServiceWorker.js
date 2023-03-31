@@ -1,9 +1,9 @@
 const cacheName = "Alorg-The Future Is, a game of avoidance-1.0";
 const contentToCache = [
-    "Build/unity-builds.loader.js",
-    "Build/unity-builds.framework.js.br",
-    "Build/unity-builds.data.br",
-    "Build/unity-builds.wasm.br",
+    "Build/TheFutureIs.loader.js",
+    "Build/TheFutureIs.framework.js.gz",
+    "Build/TheFutureIs.data.gz",
+    "Build/TheFutureIs.wasm.gz",
     "TemplateData/style.css"
 
 ];
