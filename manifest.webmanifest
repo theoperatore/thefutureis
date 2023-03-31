@@ -1,0 +1,15 @@
+{
+    "name": "The Future Is, a game of avoidance",
+    "short_name": "The Future Is, a game of avoidance",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#231F20",
+    "theme_color": "#000",
+    "description": "An idle/clicker game about pondering the phrase \"The future is\"",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
