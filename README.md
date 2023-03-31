@@ -1,6 +1,8 @@
 # thefutureis
 A Unity game I made during a 1 week hackweek.
 
+The central theme of this game is not doing what you're expected or supposed to be doing. I was supposed to be thinking about what the hackweek theme ("The Future Is...") meant and instead made this game. I guess that counts!
+
 [Play it here](https://anpetersen.me/thefutureis)
 
 This game is very rough, it's more prototype than game. 
@@ -22,3 +24,5 @@ All that said, I'm very proud of this monstrosity of mundanity! It's got some ne
 * Anything using Unity UI (oh jeez, I have a new found respect for browser layout engines!)
 
 Enjoy!
+
+
